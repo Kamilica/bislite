@@ -18,6 +18,8 @@
     text-transform: uppercase;
     font-weight: bold;
     font-size: 0.8125em; }
+    .navbar .nav-link:hover {
+      color: #2aacc8; }
 
 .hero {
   background-color: #81e4ed;

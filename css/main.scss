@@ -34,6 +34,9 @@ $text-color: #363636;
     text-transform: uppercase;
     font-weight: bold;
     font-size: em(13);
+    &:hover {
+      color: $primary-color;
+    }
   }
 }
 
